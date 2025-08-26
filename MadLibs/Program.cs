@@ -18,5 +18,5 @@ string number;
 Console.WriteLine("Pick a number between 1-10");
 number = Console.ReadLine();
 
-Console.WriteLine($"{name} is going to make a {protein} and {veggie} soup on {day}, How fun!");
+Console.WriteLine($"{name} is going to make {number} {protein} and {veggie} soup on {day}, How fun!");
 Console.ReadLine();
